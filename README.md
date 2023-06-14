@@ -35,25 +35,23 @@
   <img src="https://i.328888.xyz/2023/04/09/icMh9o.png" alt="drawing" />
 </div>
 
-## 应用程序（近期更新）
+## 应用程序
+https://wweu.lanzoub.com/ia2Zy0v2fxqd  蓝奏云下载地址
 
-# 部署步骤
 
 ## 参考视频
-https://www.bilibili.com/video/BV1iL411k7pC  本地和云服务器部署视频
+https://www.bilibili.com/video/BV1BM4y187bp 使用API调用StableDiffusion生成图片简单案例
+https://www.bilibili.com/video/BV1iL411k7pC 本地+云服务器 部署此项目视频
+https://www.bilibili.com/video/BV1ss4y1d72g 此项目微调使用的简单案例
+关注我的B站，持续输出简单的入门案例
 
+# 部署步骤
 ## 本地部署
 ```
 npm install
 npm run serve
 npm run build
 ```
- # 免费Openai_Key
-<div>
-  <a href="https://freeopenai.xyz"><img src="https://i.imgur.com/Z1Kzd54.png" alt="drawing" width="470px" /></a>
-</div>
-这里有些<a href="https://freeopenai.xyz">免费的OpenAI Key</a>,大家可以测试使用。
-
  # 在线体验地址 (需要使用OpenAI KEY)
 
  > https://huggingface.co/spaces/junchenmo/OpenAI-Manager
